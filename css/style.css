@@ -1,0 +1,71 @@
+#content{
+    width:600px;
+    margin: auto;
+}
+
+#form{
+    padding: 10px;
+    background: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+
+}
+div.register_form{
+    display: none;
+}
+#sidebar{
+    float: left;
+    width: 18%;
+    background: #f7f7f7f7;
+}
+#side bar li a{
+    padding: 3px 5px;
+    padding-left: 15px;
+    margin-bottom: 2px;
+}
+#mainContent{
+    float: right;
+    width: 82%;
+}
+#mainContent #head{
+    background: #f7f7f7;
+    border-bottom: 1px solid #ccc;
+    font-size: 14px;
+    padding: 5px;
+    min-height: 40px;
+    line-height: 40px;
+}
+#mainContent #head h2{
+    float: left;
+    font-size: 20px;
+}
+#mainContent #head #add_more{
+    float: right;
+}
+#td_container{
+    width: 1000px;
+    margin: auto;
+    padding-top: 40px;
+    background: fff;
+    padding: 10px;
+    padding-top: 40px;
+}
+#mainBody{
+    clear: both;
+    padding: 10px;
+}
+.form_field{
+    width: 29%;
+}
+#seekbar{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#progress{
+    margin-bottom: 10px;
+}
+ul.no-bullets {  
+    list-style-type: none;   
+    }  
